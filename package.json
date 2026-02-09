@@ -1,0 +1,19 @@
+{
+  "name": "rippled-amm-info-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rippled-amm-info-error.ts",
+  "scripts": {
+    "rippled-amm-info-error": "ts-node rippled-amm-info-error.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.10",
+    "dotenv": "^16.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "xrpl": "^4.0.0"
+  }
+}
